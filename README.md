@@ -1,3 +1,1 @@
 # StreamDeckSmartFolder
-
-by Stelzi79
